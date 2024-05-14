@@ -1,12 +1,14 @@
 # Notes App
 
-Notes App with MVVM Architecture and BLoC
+Notes App with MVVM Architecture and BLoC Pattern
 
 ## Getting Started
 <h3 align="left">Languages and Tools:</h3>
-
-
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<p align="left"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>  
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>
+</p>
 
 ### Used:
 *   font_awesome_flutter
@@ -17,14 +19,17 @@ Notes App with MVVM Architecture and BLoC
 *   go_router
 *   dartz
 
+## Preview Video
 
-This project is a starting point for a Flutter application.
+[NotesApp.webm](https://github.com/Fady-Esam/1.-Roll-Dice/assets/146977882/9da1101c-06a1-4fdf-8d2b-f0b577504285)
 
-A few resources to get you started if this is your first Flutter project:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<a href="https://www.linkedin.com/in/fadyesam/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="50" />
+</a> 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.facebook.com/61550927962770" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45" width="50"/>
+</a>
