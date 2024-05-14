@@ -7,7 +7,7 @@ Notes App with MVVM Architecture and BLoC Pattern
 <p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>  
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/40px-ISO_C%2B%2B_Logo.svg.png"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/45px-ISO_C%2B%2B_Logo.svg.png"/>
 </p>
 
 ### Used:
