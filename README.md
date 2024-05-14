@@ -1,6 +1,6 @@
 # Notes App
 
-Notes App with MVVM Architecture and BLoC Pattern
+Flutter Notes App with MVVM Architecture And BLoC Pattern
 
 ## Getting Started
 <h3 align="left">Languages and Tools:</h3>
