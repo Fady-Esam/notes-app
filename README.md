@@ -20,7 +20,7 @@ Notes App with MVVM Architecture and BLoC Pattern
 
 ## Preview Video
 
-[NotesApp.webm](https://github.com/Fady-Esam/1.-Roll-Dice/assets/146977882/9da1101c-06a1-4fdf-8d2b-f0b577504285)
+[NotesApp.webm](https://github.com/Fady-Esam/Notes-App/assets/146977882/b9c0cc1c-1003-480d-a3a2-b29a44f1df4c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
