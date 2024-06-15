@@ -1,6 +1,8 @@
-# Notes App
+# Flutter Notes App
 
-Flutter With Hive Notes App with MVVM Architecture And BLoC Pattern
+<h3>
+     Built with Hive using MVVM Architecture and BLoC Pattern. It allows users to add notes with titles and content with their favorite colors, and edit or delete their notes. Users can also search and find their notes easily
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
