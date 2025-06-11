@@ -15,7 +15,7 @@ A clean, minimalist Flutter notes app. Focused on performance, organization, and
 
 🗑️ Delete notes with a smooth and responsive UI
 
-💾 Offline-first experience with local data persistence using Hive
+💾 Offline-first experience with local data persistence using **Hive**
 
 ---
 
