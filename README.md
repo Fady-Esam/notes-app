@@ -5,17 +5,12 @@ A clean, minimalist Flutter notes app. Focused on performance, organization, and
 ---
 
 ## ✨ Features
-📝 Create and save notes with custom titles, content, and colors
-
-🎨 Personalize each note using color selection for better organization
-
-🔍 Powerful search functionality to quickly find notes by title or content
-
-🔄 Edit and update existing notes with ease
-
-🗑️ Delete notes with a smooth and responsive UI
-
-💾 Offline-first experience with local data persistence using **Hive**
+- 📝 Create and save notes with custom titles, content, and colors
+- 🎨 Personalize each note using color selection for better organization
+- 🔍 Powerful search functionality to quickly find notes by title or content
+- 🔄 Edit and update existing notes with ease
+- 🗑️ Delete notes with a smooth and responsive UI
+- 💾 Offline-first experience with local data persistence using **Hive**
 
 ---
 
