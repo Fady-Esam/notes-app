@@ -23,7 +23,7 @@ A clean, minimalist Flutter notes app. Focused on performance, organization, and
 
 ## 🛠️ Languages & Tools
 <p align="left"> 
-        <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,visualstudio,git,github" alt="Tech stack icons" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,git,github" alt="Tech stack icons" />
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq4YNrCDzxfBUu7I4wlkncj7XnUgF8rl1A&s" alt="Hive" width="50" height="45" />
 </p>
 
