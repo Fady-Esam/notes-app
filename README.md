@@ -2,6 +2,8 @@
 
 A clean, minimalist Flutter notes app. Focused on performance, organization, and design simplicity.  
 Ideal for capturing thoughts, reminders, or quick ideas with a touch of color.
+Fast and reliable offline access with **Hive** local storage.  
+Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 
 ---
 
@@ -13,6 +15,8 @@ Ideal for capturing thoughts, reminders, or quick ideas with a touch of color.
 - 🔄 Edit and update existing notes with ease
 - 🗑️ Delete notes with a smooth and responsive UI
 - 💾 Offline-first experience with local data persistence using **Hive**
+- 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability    
+- 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic  
 
 ---
 
