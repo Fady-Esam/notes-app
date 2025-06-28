@@ -14,9 +14,6 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 - 🔍 Powerful search functionality to quickly find notes by title or content
 - 🔄 Edit and update existing notes with ease
 - 🗑️ Delete notes with a smooth and responsive UI
-- 💾 Offline-first experience with local data persistence using **Hive**
-- 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability    
-- 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic  
 
 ---
 
