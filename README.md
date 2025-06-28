@@ -1,6 +1,6 @@
 # 📝 Flutter Notes App
 
-A clean, minimalist Flutter notes app. Focused on performance, organization, and design simplicity.  
+A clean, minimalist **Flutter** notes app. Focused on performance, organization, and design simplicity.  
 Ideal for capturing thoughts, reminders, or quick ideas with a touch of color.  
 Fast and reliable offline access with **Hive** local storage.  
 Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
