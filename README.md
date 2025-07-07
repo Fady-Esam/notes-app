@@ -7,7 +7,7 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - 📝 Create and save notes with custom titles, content, and colors
 - 🎨 Personalize each note using color selection for better organization
